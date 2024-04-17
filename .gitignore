@@ -1,5 +1,7 @@
+db-data-1/
 node_modules/
 secrets.env
 docs
 guides/
 e2e/
+.env
